@@ -32,11 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kepinaza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/kepinaza/kepinaza/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://www.instagram.com/kepinaza_/" target="_blank">
