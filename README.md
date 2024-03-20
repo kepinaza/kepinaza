@@ -40,6 +40,9 @@
   <a href="@kepinzget" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="20" height="20" alt="discord logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/kevin-arief-ardiansyah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
